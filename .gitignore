@@ -1,0 +1,9 @@
+# virtualenv
+venv
+
+# Models
+greeting
+places
+
+# HTML results from displacy
+results
